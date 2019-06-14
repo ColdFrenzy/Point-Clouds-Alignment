@@ -10,3 +10,11 @@ In order to run, the project requires the Eigen and the opencv2/viz libraries.
 
 
 # Results
+Initial pose of the 2 point clouds:
+
+![alt text](https://gitlab.com/francescofratt/probabilistic-robotics/blob/master/images/findthatobj.png)
+
+
+Final pose of the 2 point clouds:
+
+![alt text](https://gitlab.com/francescofratt/probabilistic-robotics/blob/master/images/findthatobj2.png)
